@@ -3,9 +3,9 @@ The Face Cam Attendance System is a Python-based application that automates atte
 This project leverages powerful libraries like OpenCV, Dlib, and Xlwings to detect and recognize faces in real-time and manage attendance records efficiently.
 
 <h3>Features</h3>
-Real-Time Face Detection: Uses OpenCV and Dlib for accurate face detection and recognition.
-Facial Recognition: Matches faces with pre-stored data to mark attendance automatically.
-Excel Integration: Utilizes Xlwings to manage attendance records directly in Excel, making the data easy to store, edit, and analyze.
+Real-Time Face Detection: Uses OpenCV and Dlib for accurate face detection and recognition.<br>
+Facial Recognition: Matches faces with pre-stored data to mark attendance automatically.<br>
+Excel Integration: Utilizes Xlwings to manage attendance records directly in Excel, making the data easy to store, edit, and analyze.<br>
 User-Friendly Interface: Simple and efficient user flow for capturing attendance via a webcam.
 
 <h3>Key Packages Used</h3>
