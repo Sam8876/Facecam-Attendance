@@ -1,0 +1,1 @@
+{"Krutik":24.0, "Sameer":48.0, "Karthik":34.0, "Lydia":25.0, "Shivanshu":50.0, "Anmol":61.0}
