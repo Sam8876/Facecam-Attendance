@@ -9,14 +9,14 @@ Excel Integration: Utilizes Xlwings to manage attendance records directly in Exc
 User-Friendly Interface: Simple and efficient user flow for capturing attendance via a webcam.
 
 <h3>Key Packages Used</h3>
-OpenCV: For real-time image and video processing, face detection, and camera interfacing.
-Dlib: For advanced face recognition, facial landmarks, and deep learning-based matching.
+OpenCV: For real-time image and video processing, face detection, and camera interfacing.<br>
+Dlib: For advanced face recognition, facial landmarks, and deep learning-based matching.<br>
 Xlwings: To interact with Excel files for seamless attendance record management.
 
 <h3>How It Works</h3>
-The webcam captures real-time video footage.
-Faces in the video are detected using OpenCV and processed by Dlib's face recognition model.
-If a face matches an entry in the database, the software marks attendance in the associated Excel file.
+The webcam captures real-time video footage.<br>
+Faces in the video are detected using OpenCV and processed by Dlib's face recognition model.<br>
+If a face matches an entry in the database, the software marks attendance in the associated Excel file.<br>
 Attendance data is dynamically updated in the Excel sheet via Xlwings.
 
 <h3>Applications</h3>
